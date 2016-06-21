@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "outDir": "web/js",
+        "noImplicitAny": true,
+        "removeComments": false,
+        "preserveConstEnums": true,
+        "declaration": false,
+        "inlineSourceMap": true,
+        "inlineSources": true
+    },
+    "files": [
+        "typings/blend.d.ts",
+        "src/buttons.ts",
+        "src/surface-panel.ts"
+    ]
+}
