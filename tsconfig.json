@@ -10,7 +10,7 @@
     },
     "files": [
         "typings/blend.d.ts",
-        "src/buttons.ts",
-        "src/surface-panel.ts"
+        //"src/buttons.ts",
+        "src/toolbars.ts"
     ]
 }

@@ -8,7 +8,6 @@
     <link id="theme" href="blend/css/default/default.css" rel="stylesheet" type="text/css">
     <link id="theme" href="css/style.css" rel="stylesheet" type="text/css">
     <script src="blend/js/blend-debug.js"></script>
-    <script src="js/surface-panel.js"></script>
 </head>
 
 <body class="material default">
