@@ -10,7 +10,8 @@
     },
     "files": [
         "typings/blend.d.ts",
-        "src/split.ts"
+        "src/split.ts",
+        "src/holy-grail-split.ts"
         //"src/buttons.ts",
         //"src/toolbars.ts"
     ]
