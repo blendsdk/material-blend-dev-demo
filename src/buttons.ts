@@ -57,7 +57,29 @@ var app = new Blend.web.Application({
                 disabled: true,
                 buttonType: Blend.eButtonType.flat,
                 theme: "primary"
+            },
+            /////////////////////////////////////////////
+            <ButtonInterface>{
+                ctype: "mb.button",
+                text: "button raised primary no ripple",
+                ripple: false,
+                buttonType: Blend.eButtonType.raised,
+                theme: "primary"
+            },
+            {
+                ctype: "mb.button",
+                text: "button raised primary with ripple",
+                buttonType: Blend.eButtonType.raised,
+                theme: "primary"
+            },
+            <ButtonInterface>{
+                ctype: "mb.button",
+                text: "button raised primary disabled",
+                disabled: true,
+                buttonType: Blend.eButtonType.raised,
+                theme: "primary"
             }
+
         ]
     }
 });
