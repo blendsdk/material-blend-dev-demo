@@ -13,6 +13,35 @@
             margin:1%;
             padding:1%;
         }
+
+        .transx {
+            -webkit-transform-style: preserve-3d;
+            transform-style: preserve-3d;
+            will-change: transform;
+            transition-duration: .2s;
+            transition-timing-function: cubic-bezier(.4,0,.2,1);
+            transition-property: transform;
+            transition-property: transform,-webkit-transform;
+        }
+
+        .trans_close {
+            -webkit-transform: translateX(-250px);
+            transform: translateX(-250px);
+        }
+
+        .trans_open {
+            -webkit-transform: translateX(0);
+            transform: translateX(0);
+        }
+
+        .side {
+            z-index:4
+        }
+
+        .content {
+            z-index:5;
+            border:1px solid red
+        }
     </style>
 </head>
 

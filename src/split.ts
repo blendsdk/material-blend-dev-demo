@@ -50,6 +50,7 @@ Blend.Runtime.ready(function () {
     });
     box.doInitialize();
     box.performLayout();
+    (<any>window).box = box;
 });
 
 Blend.Runtime.kickStart();
