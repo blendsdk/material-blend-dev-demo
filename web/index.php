@@ -38,10 +38,6 @@
             z-index:4
         }
 
-        .content {
-            z-index:5;
-            border:1px solid red
-        }
     </style>
 </head>
 
