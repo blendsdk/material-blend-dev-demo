@@ -10,14 +10,15 @@
     },
     "files": [
         "typings/blend.d.ts",
-        "src/split.ts",
-        "src/holy-grail-split.ts",
-        "src/responsive-grid.ts",
-        "src/app-resize-event.ts",
-        "src/box-flow.ts",
-        "src/auto-layout.ts",
-        "src/buttons.ts",
-        "src/mapp-test.ts",
-        "src/toolbars.ts"
+        // "src/split.ts",
+        // "src/holy-grail-split.ts",
+        // "src/responsive-grid.ts",
+        // "src/app-resize-event.ts",
+        // "src/box-flow.ts",
+        // "src/auto-layout.ts",
+        // "src/buttons.ts",
+        // "src/mapp-test.ts",
+        // "src/toolbars.ts",
+        "src/material-app.ts"
     ]
 }
