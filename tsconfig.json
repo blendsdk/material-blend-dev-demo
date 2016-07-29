@@ -18,7 +18,8 @@
         // "src/auto-layout.ts",
         // "src/buttons.ts",
         // "src/mapp-test.ts",
-        // "src/toolbars.ts",
-        "src/material-app.ts"
+        "src/toolbars.ts",
+        //"src/material-app.ts",
+        "src/appbar.ts"
     ]
 }
